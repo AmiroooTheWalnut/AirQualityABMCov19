@@ -1,0 +1,12 @@
+{
+  "numRuns": 10,
+  "isReportContactRate": true,
+  "isSpecialScenarioActive": false,
+  "isSpecificRegionInfected": false,
+  "infectedRegionIndicesString": "",
+  "CBGIndexToInfect": 0,
+  "scenarioName": "VDFMTH",
+  "isParallelBehaviorEvaluation": true,
+  "numResidents": 6000,
+  "numCPUs": 10
+}
